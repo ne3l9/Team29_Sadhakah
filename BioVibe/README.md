@@ -1,13 +1,8 @@
-<h1>BioVibe</h1>
+<h1>Welcome To BioVibe</h1>
 
 
 
 <div align="center" >
-
-![jwt token](http://jwt.io/img/badge-compatible.svg)
-![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-![GitHub repo size](https://img.shields.io/github/repo-size/shivabhattacharjee/WasteEasy)
 
   </div>
 
@@ -57,10 +52,6 @@ BioVibe is an app designed to streamline waste management. Developed during the 
 * [NextJS](https://nextjs.org)
 * [TailwindCss](https://tailwindcss.com/)
 * [MongoDb](https://www.mongodb.com/)
-* [GoogleMaps](https://www.google.com/maps/)
-* [Gemini](https://gemini.google.com/)
-
-
 
 ## Getting Started
 
@@ -121,5 +112,6 @@ This will start the development server  at http://localhost:3000/
 * ## Render
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ShivaBhattacharjee/WasteEasy)
+
 
 
