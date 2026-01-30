@@ -1,10 +1,4 @@
-<a href="https://github.com/ShivaBhattacharjee/WasteEasy">
-<p align="center">
-  <img src="./public/wastelogo.png" height="180px"/>
-  </a>
-<br/>
-  <h3 align="center">WasteEasy</h3>
-
+<h1>BioVibe</h1>
 
 
 
@@ -48,10 +42,10 @@
 - [Authors](#authors)
 
 ## About The Project
-![image](https://github.com/ShivaBhattacharjee/WasteEasy/assets/95211406/1f716016-efa3-4b4e-934e-86ef48f7caeb)
 
 
-WasteEasy is an app designed to streamline waste management. Developed during the Envision Hackathon, it focuses on waste classification and encourages proper waste segregation. Users can earn points or coupons by utilizing WasteEasy for their waste disposal needs.
+
+BioVibe is an app designed to streamline waste management. Developed during the Envision Hackathon, it focuses on waste classification and encourages proper waste segregation. Users can earn points or coupons by utilizing WasteEasy for their waste disposal needs.
 
 
 
@@ -78,7 +72,9 @@ WasteEasy is an app designed to streamline waste management. Developed during th
 <a href="https://bun.sh/">Bun</a> is a JavaScript runtime, package manager, test runner bundler built from scratch using the Zig programming language. It was designed by Jarred Sumner as a drop-in replacement for Node.js. Bun uses JavaScriptCore as the JavaScript engine, unlike Node.js and Deno, which both use V8.
 
 <a href="https://www.mongodb.com//">MongoDB</a>  is a source-available, cross-platform, document-oriented database program. Classified as a NoSQL database product, MongoDB utilizes JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and current versions are licensed under the Server Side Public License.
-
+
+
+
 <a href="https://developers.google.com/maps/documentation/javascript/get-api-key">GoogleMaps Api key</a>
 
 <a href="https://makersuite.google.com/app/apikey">Gemini Api Key</a> 
@@ -126,41 +122,4 @@ This will start the development server  at http://localhost:3000/
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ShivaBhattacharjee/WasteEasy)
 
-## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ShivaBhattacharjee/WasteEasy/issues) to discuss it
-
-* Please make sure you check your spelling and grammar.
-
-### Creating A Pull Request
-
-Wanna contribute to WasteEasy ?
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/FeatureName`)
-3. Commit your Changes (`git commit -m 'Add some FeatureName'`)
-4. Push to the Branch (`git push origin feature/FeatureName`)
-5. Open a Pull Request
-
-
-## Raising an issue
-
-If you're experiencing any problems with WasteEasy, please be sure to review our [issue template](https://github.com/ShivaBhattacharjee/WasteEasy/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
-
-We kindly ask that you provide as much detail as possible when submitting an issue, including steps to reproduce the problem, any error messages that you have seen, and any other relevant information. This will help us to identify and fix the issue more quickly.
-
-Thank you for your cooperation, and we look forward to hearing from you!
-
-## Code of conduct
-
-Developers are requested to go through our <a href="https://github.com/ShivaBhattacharjee/Trim/blob/WasteEasy/CODE_OF_CONDUCT.md">code of conduct</a> thoroughly to maintain a peaceful environment within our project.
-
-## License
-
-Distributed under the Apache License 2.0 . See [LICENSE](https://github.com/ShivaBhattacharjee/WasteEasy/blob/main/LICENSE) for more information.
-
-
-## Authors
-
-* **Shiva Bhattacharjee** - [Shiva Bhattacharjee](https://github.com/ShivaBhattacharjee) - *Waste Easy*
